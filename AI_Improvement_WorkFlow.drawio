@@ -12,7 +12,7 @@
         <mxCell id="AP1Aij93erqyYAeXEd7j-22" edge="1" parent="1" source="AP1Aij93erqyYAeXEd7j-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AP1Aij93erqyYAeXEd7j-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AP1Aij93erqyYAeXEd7j-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;font face=&quot;Poiret One&quot;&gt;Research AI model&lt;/font&gt;" vertex="1">
+        <mxCell id="AP1Aij93erqyYAeXEd7j-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;font face=&quot;Poiret One&quot;&gt;Research potential AI model/solution&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="345" y="620" as="geometry" />
         </mxCell>
         <mxCell id="AP1Aij93erqyYAeXEd7j-20" edge="1" parent="1" source="AP1Aij93erqyYAeXEd7j-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AP1Aij93erqyYAeXEd7j-19" value="">
@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP1Aij93erqyYAeXEd7j-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;font face=&quot;Poiret One&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Poiret+One&quot;&gt;Test model&lt;/font&gt;" vertex="1">
+        <mxCell id="AP1Aij93erqyYAeXEd7j-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;font face=&quot;Poiret One&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Poiret+One&quot;&gt;Implement &amp;amp; test model&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="345" y="820" as="geometry" />
         </mxCell>
         <mxCell id="AP1Aij93erqyYAeXEd7j-15" edge="1" parent="1" source="AP1Aij93erqyYAeXEd7j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AP1Aij93erqyYAeXEd7j-7" value="">
@@ -73,7 +73,7 @@
         <mxCell id="AP1Aij93erqyYAeXEd7j-25" edge="1" parent="1" source="AP1Aij93erqyYAeXEd7j-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AP1Aij93erqyYAeXEd7j-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AP1Aij93erqyYAeXEd7j-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0;fillColor=default;strokeColor=default;" value="&lt;font face=&quot;Poiret One&quot;&gt;Pick model&lt;/font&gt;" vertex="1">
+        <mxCell id="AP1Aij93erqyYAeXEd7j-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0;fillColor=default;strokeColor=default;" value="&lt;font face=&quot;Poiret One&quot;&gt;Pick model/solution&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="345" y="715" as="geometry" />
         </mxCell>
         <mxCell id="AP1Aij93erqyYAeXEd7j-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E8CAFF;" value="&lt;font face=&quot;Poiret One&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Poiret+One&quot; style=&quot;font-size: 15px;&quot;&gt;Iterate&lt;/font&gt;" vertex="1">
