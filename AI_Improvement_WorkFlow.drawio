@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.4">
   <diagram name="Page-1" id="tmSOqMLmrLbladyIjudK">
-    <mxGraphModel dx="2194" dy="2372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="2432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="AP1Aij93erqyYAeXEd7j-15" edge="1" parent="1" source="AP1Aij93erqyYAeXEd7j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AP1Aij93erqyYAeXEd7j-7" value="v">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AP1Aij93erqyYAeXEd7j-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;font face=&quot;Poiret One&quot;&gt;Enhance current ChatGPT 4.0 prompt&lt;/font&gt;" vertex="1">
+        <mxCell id="AP1Aij93erqyYAeXEd7j-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;div&gt;&lt;font face=&quot;Poiret One&quot;&gt;Optimize&amp;nbsp;current ChatGPT 4.0 prompt&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="345" y="145" as="geometry" />
         </mxCell>
         <mxCell id="kKass6N8irlu7i4yNOML-6" edge="1" parent="1" source="AP1Aij93erqyYAeXEd7j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="AP1Aij93erqyYAeXEd7j-18">
@@ -157,6 +157,12 @@
         </mxCell>
         <mxCell id="kKass6N8irlu7i4yNOML-9" edge="1" parent="1" source="AP1Aij93erqyYAeXEd7j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kKass6N8irlu7i4yNOML-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEnFY04pk46-qm-zUyZC-4" edge="1" parent="1" source="qEnFY04pk46-qm-zUyZC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" target="AP1Aij93erqyYAeXEd7j-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEnFY04pk46-qm-zUyZC-2" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;" value="&lt;div&gt;&lt;font face=&quot;Poiret One&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Poiret+One&quot; style=&quot;font-size: 14px;&quot;&gt;What &quot;&lt;b&gt;optimize&lt;/b&gt;&quot; means in this scenario:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Poiret One&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Poiret+One&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Poiret One&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Poiret+One&quot; style=&quot;font-size: 14px;&quot;&gt;- Reduce prompt length as much as possible&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Poiret One&quot; style=&quot;font-size: 14px;&quot;&gt;- Be as explicit as possible&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Poiret One&quot; style=&quot;font-size: 14px;&quot;&gt;- Convey the purpose of the prompt effectively&lt;/font&gt;&lt;font face=&quot;Poiret One&quot; style=&quot;font-size: 14px;&quot;&gt;,&lt;/font&gt;&lt;font face=&quot;Poiret One&quot; style=&quot;font-size: 14px;&quot;&gt; by evaluating the results&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="250" x="30" y="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
